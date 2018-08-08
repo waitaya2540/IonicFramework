@@ -17,6 +17,8 @@ Learning Basic - IONIC FRAMEWORK + AngularFire2 RealTime Database
 
   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
+  Requirement install  Node.js and git
+  
   ->run cmd
   
   $ git clone https://github.com/waitaya2540/IonicFramework.git
