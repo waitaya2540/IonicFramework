@@ -28,3 +28,7 @@ Learning Basic - IONIC FRAMEWORK + AngularFire2 RealTime Database
   $ npm install
   
   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
+  OR
+   
+   Download File ZIP: https://goo.gl/tsJGBG
