@@ -17,6 +17,8 @@ Learning Basic - IONIC FRAMEWORK + AngularFire2 RealTime Database
 
   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
+  ->run cmd
+  
   $ git clone https://github.com/waitaya2540/IonicFramework.git
   
   $ cd IonicFramework
