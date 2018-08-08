@@ -16,9 +16,11 @@ Learning Basic - IONIC FRAMEWORK + AngularFire2 RealTime Database
   messagingSenderId: "..."
 
   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
   $ git clone https://github.com/waitaya2540/IonicFramework.git
   
   $ cd IonicFramework
   
   $ npm install
+  
   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
